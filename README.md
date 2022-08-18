@@ -5,3 +5,6 @@
 * Declarative Type
 * Function
 * Consumer
+* Streams
+* Optionals
+* Combinator Pattern
